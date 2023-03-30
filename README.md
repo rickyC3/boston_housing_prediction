@@ -1,0 +1,2 @@
+# boston_housing_prediction
+這份程式是我第一個AI作品，它是利用深層學習網路來預測波士頓地區的房價
